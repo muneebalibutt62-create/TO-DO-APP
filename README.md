@@ -45,13 +45,12 @@ The app updates the UI dynamically based on user actions.
 ## 📸 Screenshots
 
 ### Main Interface
-(Add screenshot here)
+<img width="1280" height="1024" alt="Main Interface" src="https://github.com/user-attachments/assets/dc916273-7590-4967-bd5a-5e684b36b667" />
 
-### Task in Progress View
-(Add screenshot here)
 
 ### Completed Tasks View
-(Add screenshot here)
+<img width="1280" height="1024" alt="Task Completed" src="https://github.com/user-attachments/assets/d769e486-7343-421a-85fe-c819e77dc3de" />
+
 
 ---
 
